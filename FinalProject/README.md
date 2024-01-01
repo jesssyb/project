@@ -1,5 +1,5 @@
 # Grocery App
-#### Video Demo:  <URL HERE>
+#### Video Demo:  https://youtu.be/57Uu2llxm4I
 #### Description:
 
 I made this app as a concept of something I would find useful in my own life as an app I would develop for my own personal use - despite there being plenty of grocery app out there, I have always thought of this as a fun side project I could do someday and used this final project as an 
