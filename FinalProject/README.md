@@ -9,3 +9,4 @@ Since I created this app in Python rather than Swift, I used Beeware. Beeware is
 
 Upon execution of the app, a user will see an input for a grocery item and an input for the quantity of the item, along with a table of any exisitng items in the grocery list. The user will be propmted to add any items they want to the grocery list. Upon submition of items to the list, the table will be updated with the item and respective quantity. To delete an item from the table once a user theorectially "obtains" that item, the user will have to double click the table row that contains that item. The table of items uses a local sqlite3 database. The database is updated upon addition/deletion of items to accurately reflect the contents of the grocery list.
 
+**To run download and run the installer in the dist directory**
