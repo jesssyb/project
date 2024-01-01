@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Briefcase-Version: 0.3.16
+Name: FinalProject
+Formal-Name: FinalProject
+App-ID: com.example.FinalProject
+Version: 0.0.1
+Home-page: https://example.com/FinalProject
+Download-URL: https://example.com/FinalProject
+Author: Jessica B
+Author-email: jessica@example.com
+Summary: Final project for CS50x
